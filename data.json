@@ -1,0 +1,141 @@
+{
+  "demo": false,
+  "updated": "2026-11-07T22:33:27.046Z",
+  "errors": 21,
+  "total": 21,
+  "services": [
+    {
+      "id": "app_bio",
+      "label": "Application + biometrics"
+    },
+    {
+      "id": "bio",
+      "label": "Biometrics only"
+    },
+    {
+      "id": "reentry",
+      "label": "Re-entry permit / EES"
+    }
+  ],
+  "offices": [
+    {
+      "id": "jacobsens",
+      "name": "Copenhagen",
+      "detail": "Carl Jacobsens Vej 39, 2500 Valby",
+      "open": "Mon, Wed, Thu, Fri",
+      "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    },
+    {
+      "id": "aarhus",
+      "name": "Aarhus",
+      "detail": "Hack Kampmanns Plads 2 (DOKK1), 8000 Aarhus C",
+      "open": "Mon, Wed, Thu, Fri",
+      "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    },
+    {
+      "id": "odense",
+      "name": "Odense",
+      "detail": "Østre Stationsvej 15, 5000 Odense C",
+      "open": "Mon, Wed, Thu",
+      "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    },
+    {
+      "id": "aalborg",
+      "name": "Aalborg",
+      "detail": "Badehusvej 7, 9000 Aalborg",
+      "open": "Mon, Thu, Fri",
+      "booking": "https://scandic.cleverq.de/public/appointments/aalborg/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    },
+    {
+      "id": "esbjerg",
+      "name": "Esbjerg",
+      "detail": "Torvegade 74, 6700 Esbjerg",
+      "open": "Mon, Thu, Fri",
+      "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    },
+    {
+      "id": "aabenraa",
+      "name": "Sønderborg",
+      "detail": "Holger Drachmanns Plads 5, Indgang A, 6400 Sønderborg",
+      "open": "Mon, Wed",
+      "booking": "https://scandic.cleverq.de/public/appointments/aabenraa/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    },
+    {
+      "id": "rønne",
+      "name": "Bornholm (Rønne)",
+      "detail": "Søndre Landevej 2 (airport terminal), 3700 Rønne",
+      "open": "Selected Tuesdays",
+      "booking": "https://scandic.cleverq.de/public/appointments/r%C3%B8nne/index.html?lang=en",
+      "earliest": {
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
+      },
+      "upcoming": {
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
+      }
+    }
+  ]
+}
