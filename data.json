@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-09T17:01:17.528Z",
+  "updated": "2026-11-09T17:21:18.031Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -131,7 +131,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aalborg/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-03",
-        "bio": "2026-12-01",
+        "bio": "2026-12-03",
         "reentry": "2026-12-03"
       },
       "upcoming": {
@@ -143,11 +143,11 @@
           "2026-12-14"
         ],
         "bio": [
-          "2026-12-01",
           "2026-12-03",
           "2026-12-07",
           "2026-12-10",
-          "2026-12-11"
+          "2026-12-11",
+          "2026-12-14"
         ],
         "reentry": [
           "2026-12-03",
