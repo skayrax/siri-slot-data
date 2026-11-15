@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-15T18:41:19.879Z",
+  "updated": "2026-11-15T19:01:20.283Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -25,27 +25,21 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-11-25",
-        "bio": "2026-11-25",
-        "reentry": "2026-11-25"
+        "app_bio": "2026-12-21",
+        "bio": "2026-11-30",
+        "reentry": "2026-12-21"
       },
       "upcoming": {
         "app_bio": [
-          "2026-11-25",
-          "2026-12-09",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
-          "2026-11-25",
           "2026-11-30",
-          "2026-12-09",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
-          "2026-11-25",
-          "2026-12-09",
           "2026-12-21",
           "2026-12-22"
         ]
