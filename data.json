@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-16T23:41:18.823Z",
+  "updated": "2026-11-17T00:01:14.109Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -25,13 +25,12 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
+        "app_bio": "2026-12-22",
         "bio": "2026-11-30",
-        "reentry": "2026-12-21"
+        "reentry": "2026-12-22"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
@@ -40,7 +39,6 @@
           "2026-12-22"
         ],
         "reentry": [
-          "2026-12-21",
           "2026-12-22"
         ]
       }
@@ -154,25 +152,27 @@
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-17",
-        "bio": "2026-12-14",
-        "reentry": "2026-12-17"
+        "app_bio": "2026-12-04",
+        "bio": "2026-12-04",
+        "reentry": "2026-12-04"
       },
       "upcoming": {
         "app_bio": [
+          "2026-12-04",
           "2026-12-17",
           "2026-12-18",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
+          "2026-12-04",
           "2026-12-14",
           "2026-12-17",
           "2026-12-18",
-          "2026-12-21",
-          "2026-12-22"
+          "2026-12-21"
         ],
         "reentry": [
+          "2026-12-04",
           "2026-12-17",
           "2026-12-18",
           "2026-12-21",
@@ -188,7 +188,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aabenraa/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-16",
-        "bio": "2026-12-16",
+        "bio": "2026-12-14",
         "reentry": "2026-12-16"
       },
       "upcoming": {
@@ -199,6 +199,7 @@
           "2027-01-04"
         ],
         "bio": [
+          "2026-12-14",
           "2026-12-16",
           "2026-12-21",
           "2026-12-22",
