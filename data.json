@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-17T18:41:18.928Z",
+  "updated": "2026-11-17T19:01:16.850Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -82,7 +82,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-17",
-        "bio": "2026-12-17",
+        "bio": "2026-11-18",
         "reentry": "2026-12-17"
       },
       "upcoming": {
@@ -92,6 +92,7 @@
           "2026-12-22"
         ],
         "bio": [
+          "2026-11-18",
           "2026-12-17",
           "2026-12-21",
           "2026-12-22"
@@ -144,7 +145,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-17",
-        "bio": "2026-12-14",
+        "bio": "2026-12-17",
         "reentry": "2026-12-17"
       },
       "upcoming": {
@@ -155,7 +156,6 @@
           "2026-12-22"
         ],
         "bio": [
-          "2026-12-14",
           "2026-12-17",
           "2026-12-18",
           "2026-12-21",
