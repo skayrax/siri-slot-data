@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-18T19:41:16.765Z",
+  "updated": "2026-11-18T20:01:22.285Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -26,13 +26,12 @@
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
         "app_bio": null,
-        "bio": "2026-11-19",
+        "bio": "2026-11-30",
         "reentry": null
       },
       "upcoming": {
         "app_bio": [],
         "bio": [
-          "2026-11-19",
           "2026-11-30"
         ],
         "reentry": []
@@ -46,7 +45,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-21",
-        "bio": "2026-12-14",
+        "bio": "2026-12-16",
         "reentry": "2026-12-21"
       },
       "upcoming": {
@@ -55,7 +54,6 @@
           "2026-12-22"
         ],
         "bio": [
-          "2026-12-14",
           "2026-12-16",
           "2026-12-18",
           "2026-12-21",
@@ -74,20 +72,23 @@
       "open": "Mon, Wed, Thu",
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
-        "bio": "2026-12-21",
-        "reentry": "2026-12-21"
+        "app_bio": "2026-11-19",
+        "bio": "2026-11-19",
+        "reentry": "2026-11-19"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ]
