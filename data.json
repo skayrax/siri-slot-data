@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-18T12:41:19.854Z",
+  "updated": "2026-11-18T13:01:17.305Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -44,24 +44,21 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-11-19",
-        "bio": "2026-11-19",
-        "reentry": "2026-11-19"
+        "app_bio": "2026-12-21",
+        "bio": "2026-12-14",
+        "reentry": "2026-12-21"
       },
       "upcoming": {
         "app_bio": [
-          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
-          "2026-11-19",
           "2026-12-14",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
-          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ]
@@ -74,20 +71,23 @@
       "open": "Mon, Wed, Thu",
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
-        "bio": "2026-12-21",
-        "reentry": "2026-12-21"
+        "app_bio": "2026-11-19",
+        "bio": "2026-11-19",
+        "reentry": "2026-11-19"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ]
@@ -167,12 +167,13 @@
       "open": "Mon, Wed",
       "booking": "https://scandic.cleverq.de/public/appointments/aabenraa/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
+        "app_bio": "2026-12-16",
         "bio": "2026-11-18",
-        "reentry": "2026-12-21"
+        "reentry": "2026-12-16"
       },
       "upcoming": {
         "app_bio": [
+          "2026-12-16",
           "2026-12-21",
           "2026-12-22",
           "2027-01-04",
@@ -186,6 +187,7 @@
           "2026-12-22"
         ],
         "reentry": [
+          "2026-12-16",
           "2026-12-21",
           "2026-12-22",
           "2027-01-04",
