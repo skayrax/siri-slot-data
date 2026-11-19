@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-19T09:21:13.396Z",
+  "updated": "2026-11-19T09:41:16.493Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -33,8 +33,7 @@
         "app_bio": [],
         "bio": [
           "2026-11-30",
-          "2026-12-17",
-          "2026-12-22"
+          "2026-12-17"
         ],
         "reentry": []
       }
@@ -46,24 +45,24 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-11-20",
-        "bio": "2026-11-20",
-        "reentry": "2026-11-20"
+        "app_bio": "2026-11-19",
+        "bio": "2026-11-19",
+        "reentry": "2026-11-19"
       },
       "upcoming": {
         "app_bio": [
-          "2026-11-20",
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
-          "2026-11-20",
+          "2026-11-19",
           "2026-12-17",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
-          "2026-11-20",
+          "2026-11-19",
           "2026-12-21",
           "2026-12-22"
         ]
@@ -106,7 +105,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aalborg/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-17",
-        "bio": "2026-11-19",
+        "bio": "2026-12-17",
         "reentry": "2026-12-17"
       },
       "upcoming": {
@@ -117,7 +116,6 @@
           "2026-12-22"
         ],
         "bio": [
-          "2026-11-19",
           "2026-12-17",
           "2026-12-18",
           "2026-12-21",
