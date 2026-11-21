@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-21T10:41:16.637Z",
+  "updated": "2026-11-21T11:01:19.635Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -52,14 +52,20 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
-        "app_bio": null,
-        "bio": null,
-        "reentry": null
+        "app_bio": "2026-11-23",
+        "bio": "2026-11-23",
+        "reentry": "2026-11-23"
       },
       "upcoming": {
-        "app_bio": [],
-        "bio": [],
-        "reentry": []
+        "app_bio": [
+          "2026-11-23"
+        ],
+        "bio": [
+          "2026-11-23"
+        ],
+        "reentry": [
+          "2026-11-23"
+        ]
       }
     },
     {
