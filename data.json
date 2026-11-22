@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-22T10:21:17.993Z",
+  "updated": "2026-11-22T10:41:14.531Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -75,20 +75,23 @@
       "open": "Mon, Wed, Thu",
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
-        "bio": "2026-12-21",
-        "reentry": "2026-12-21"
+        "app_bio": "2026-11-23",
+        "bio": "2026-11-23",
+        "reentry": "2026-11-23"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ]
@@ -102,7 +105,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aalborg/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-17",
-        "bio": "2026-11-23",
+        "bio": "2026-12-17",
         "reentry": "2026-12-17"
       },
       "upcoming": {
@@ -112,7 +115,6 @@
           "2026-12-22"
         ],
         "bio": [
-          "2026-11-23",
           "2026-12-17",
           "2026-12-21",
           "2026-12-22"
@@ -131,20 +133,23 @@
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
-        "bio": "2026-12-21",
-        "reentry": "2026-12-21"
+        "app_bio": "2026-11-23",
+        "bio": "2026-11-23",
+        "reentry": "2026-11-23"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ],
         "bio": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ],
         "reentry": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ]
@@ -157,12 +162,13 @@
       "open": "Mon, Wed",
       "booking": "https://scandic.cleverq.de/public/appointments/aabenraa/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
+        "app_bio": "2026-11-23",
         "bio": "2026-11-23",
-        "reentry": "2026-12-21"
+        "reentry": "2026-11-23"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ],
@@ -172,6 +178,7 @@
           "2026-12-22"
         ],
         "reentry": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22"
         ]
