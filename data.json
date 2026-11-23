@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-23T15:21:15.623Z",
+  "updated": "2026-11-23T15:41:13.513Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -25,13 +25,12 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-22",
+        "app_bio": "2027-01-04",
         "bio": "2026-12-14",
-        "reentry": "2026-12-22"
+        "reentry": "2027-01-04"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-22",
           "2027-01-04"
         ],
         "bio": [
@@ -42,7 +41,6 @@
           "2027-01-04"
         ],
         "reentry": [
-          "2026-12-22",
           "2027-01-04"
         ]
       }
@@ -130,7 +128,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-22",
-        "bio": "2026-12-21",
+        "bio": "2026-12-22",
         "reentry": "2026-12-22"
       },
       "upcoming": {
@@ -139,7 +137,6 @@
           "2027-01-04"
         ],
         "bio": [
-          "2026-12-21",
           "2026-12-22",
           "2027-01-04"
         ],
@@ -156,27 +153,24 @@
       "open": "Mon, Wed",
       "booking": "https://scandic.cleverq.de/public/appointments/aabenraa/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-21",
-        "bio": "2026-12-21",
-        "reentry": "2026-12-21"
+        "app_bio": "2026-12-22",
+        "bio": "2026-12-22",
+        "reentry": "2026-12-22"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-21",
           "2026-12-22",
           "2027-01-04",
           "2027-01-06",
           "2027-01-11"
         ],
         "bio": [
-          "2026-12-21",
           "2026-12-22",
           "2027-01-04",
           "2027-01-06",
           "2027-01-11"
         ],
         "reentry": [
-          "2026-12-21",
           "2026-12-22",
           "2027-01-04",
           "2027-01-06",
