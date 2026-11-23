@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-23T09:41:14.295Z",
+  "updated": "2026-11-23T10:01:13.710Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -26,7 +26,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
         "app_bio": "2026-12-21",
-        "bio": "2026-11-25",
+        "bio": "2026-12-14",
         "reentry": "2026-12-21"
       },
       "upcoming": {
@@ -36,11 +36,11 @@
           "2027-01-04"
         ],
         "bio": [
-          "2026-11-25",
           "2026-12-14",
           "2026-12-16",
           "2026-12-21",
-          "2026-12-22"
+          "2026-12-22",
+          "2027-01-04"
         ],
         "reentry": [
           "2026-12-21",
@@ -79,13 +79,12 @@
       "open": "Mon, Wed, Thu",
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-22",
+        "app_bio": "2027-01-04",
         "bio": "2026-11-23",
-        "reentry": "2026-12-22"
+        "reentry": "2027-01-04"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-22",
           "2027-01-04"
         ],
         "bio": [
@@ -94,7 +93,6 @@
           "2027-01-04"
         ],
         "reentry": [
-          "2026-12-22",
           "2027-01-04"
         ]
       }
@@ -136,21 +134,26 @@
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-22",
-        "bio": "2026-12-21",
-        "reentry": "2026-12-22"
+        "app_bio": "2026-11-23",
+        "bio": "2026-11-23",
+        "reentry": "2026-11-23"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-23",
+          "2026-12-21",
           "2026-12-22",
           "2027-01-04"
         ],
         "bio": [
+          "2026-11-23",
           "2026-12-21",
           "2026-12-22",
           "2027-01-04"
         ],
         "reentry": [
+          "2026-11-23",
+          "2026-12-21",
           "2026-12-22",
           "2027-01-04"
         ]
