@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-24T15:01:13.485Z",
+  "updated": "2026-11-24T15:21:13.708Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -52,20 +52,14 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-11-25",
-        "bio": "2026-11-25",
-        "reentry": "2026-11-25"
+        "app_bio": null,
+        "bio": null,
+        "reentry": null
       },
       "upcoming": {
-        "app_bio": [
-          "2026-11-25"
-        ],
-        "bio": [
-          "2026-11-25"
-        ],
-        "reentry": [
-          "2026-11-25"
-        ]
+        "app_bio": [],
+        "bio": [],
+        "reentry": []
       }
     },
     {
@@ -76,7 +70,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
         "app_bio": "2027-01-04",
-        "bio": "2026-11-25",
+        "bio": "2027-01-04",
         "reentry": "2027-01-04"
       },
       "upcoming": {
@@ -84,7 +78,6 @@
           "2027-01-04"
         ],
         "bio": [
-          "2026-11-25",
           "2027-01-04"
         ],
         "reentry": [
