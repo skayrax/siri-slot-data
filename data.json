@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-25T11:01:13.759Z",
+  "updated": "2026-11-25T11:21:13.861Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -52,18 +52,21 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
-        "app_bio": "2027-01-06",
-        "bio": "2027-01-06",
-        "reentry": "2027-01-06"
+        "app_bio": "2026-11-25",
+        "bio": "2026-11-25",
+        "reentry": "2026-11-25"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-25",
           "2027-01-06"
         ],
         "bio": [
+          "2026-11-25",
           "2027-01-06"
         ],
         "reentry": [
+          "2026-11-25",
           "2027-01-06"
         ]
       }
@@ -76,7 +79,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
         "app_bio": "2027-01-04",
-        "bio": "2026-11-25",
+        "bio": "2027-01-04",
         "reentry": "2027-01-04"
       },
       "upcoming": {
@@ -85,7 +88,6 @@
           "2027-01-06"
         ],
         "bio": [
-          "2026-11-25",
           "2027-01-04",
           "2027-01-06"
         ],
@@ -101,6 +103,31 @@
       "detail": "Badehusvej 7, 9000 Aalborg",
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aalborg/index.html?lang=en",
+      "earliest": {
+        "app_bio": "2027-01-04",
+        "bio": "2026-12-21",
+        "reentry": "2027-01-04"
+      },
+      "upcoming": {
+        "app_bio": [
+          "2027-01-04"
+        ],
+        "bio": [
+          "2026-12-21",
+          "2026-12-22",
+          "2027-01-04"
+        ],
+        "reentry": [
+          "2027-01-04"
+        ]
+      }
+    },
+    {
+      "id": "esbjerg",
+      "name": "Esbjerg",
+      "detail": "Torvegade 74, 6700 Esbjerg",
+      "open": "Mon, Thu, Fri",
+      "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
         "app_bio": "2027-01-04",
         "bio": "2027-01-04",
@@ -119,32 +146,6 @@
       }
     },
     {
-      "id": "esbjerg",
-      "name": "Esbjerg",
-      "detail": "Torvegade 74, 6700 Esbjerg",
-      "open": "Mon, Thu, Fri",
-      "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
-      "earliest": {
-        "app_bio": "2026-11-26",
-        "bio": "2026-11-26",
-        "reentry": "2026-11-26"
-      },
-      "upcoming": {
-        "app_bio": [
-          "2026-11-26",
-          "2027-01-04"
-        ],
-        "bio": [
-          "2026-11-26",
-          "2027-01-04"
-        ],
-        "reentry": [
-          "2026-11-26",
-          "2027-01-04"
-        ]
-      }
-    },
-    {
       "id": "aabenraa",
       "name": "Sønderborg",
       "detail": "Holger Drachmanns Plads 5, Indgang A, 6400 Sønderborg",
@@ -152,7 +153,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aabenraa/index.html?lang=en",
       "earliest": {
         "app_bio": "2027-01-04",
-        "bio": "2026-11-25",
+        "bio": "2027-01-04",
         "reentry": "2027-01-04"
       },
       "upcoming": {
@@ -163,7 +164,6 @@
           "2027-01-13"
         ],
         "bio": [
-          "2026-11-25",
           "2027-01-04",
           "2027-01-06",
           "2027-01-11",
