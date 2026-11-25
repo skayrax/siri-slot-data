@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-25T02:21:13.567Z",
+  "updated": "2026-11-25T02:41:13.278Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -77,23 +77,20 @@
       "open": "Mon, Wed, Thu",
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-16",
-        "bio": "2026-12-16",
-        "reentry": "2026-12-16"
+        "app_bio": "2027-01-04",
+        "bio": "2027-01-04",
+        "reentry": "2027-01-04"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-16",
           "2027-01-04",
           "2027-01-06"
         ],
         "bio": [
-          "2026-12-16",
           "2027-01-04",
           "2027-01-06"
         ],
         "reentry": [
-          "2026-12-16",
           "2027-01-04",
           "2027-01-06"
         ]
