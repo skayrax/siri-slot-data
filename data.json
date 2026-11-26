@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-26T03:01:13.516Z",
+  "updated": "2026-11-26T03:21:13.531Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -57,7 +57,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/aarhus/index.html?lang=en",
       "earliest": {
         "app_bio": "2027-01-06",
-        "bio": "2026-11-26",
+        "bio": "2027-01-06",
         "reentry": "2027-01-06"
       },
       "upcoming": {
@@ -66,7 +66,6 @@
           "2027-01-07"
         ],
         "bio": [
-          "2026-11-26",
           "2027-01-06",
           "2027-01-07"
         ],
