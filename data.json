@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-26T20:41:13.762Z",
+  "updated": "2026-11-26T21:01:13.734Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -25,13 +25,12 @@
       "open": "Mon, Wed, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-22",
+        "app_bio": "2027-01-06",
         "bio": "2026-12-10",
-        "reentry": "2026-12-22"
+        "reentry": "2027-01-06"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-22",
           "2027-01-06",
           "2027-01-07"
         ],
@@ -43,7 +42,6 @@
           "2027-01-06"
         ],
         "reentry": [
-          "2026-12-22",
           "2027-01-06",
           "2027-01-07"
         ]
@@ -82,22 +80,25 @@
       "open": "Mon, Wed, Thu",
       "booking": "https://scandic.cleverq.de/public/appointments/odense/index.html?lang=en",
       "earliest": {
-        "app_bio": "2027-01-04",
-        "bio": "2027-01-04",
-        "reentry": "2027-01-04"
+        "app_bio": "2026-12-14",
+        "bio": "2026-12-14",
+        "reentry": "2026-12-14"
       },
       "upcoming": {
         "app_bio": [
+          "2026-12-14",
           "2027-01-04",
           "2027-01-06",
           "2027-01-07"
         ],
         "bio": [
+          "2026-12-14",
           "2027-01-04",
           "2027-01-06",
           "2027-01-07"
         ],
         "reentry": [
+          "2026-12-14",
           "2027-01-04",
           "2027-01-06",
           "2027-01-07"
