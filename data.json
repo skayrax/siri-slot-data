@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-27T06:01:23.736Z",
+  "updated": "2026-11-27T06:21:13.749Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -26,7 +26,7 @@
       "booking": "https://scandic.cleverq.de/public/appointments/jacobsens/index.html?lang=en",
       "earliest": {
         "app_bio": "2027-01-06",
-        "bio": "2026-12-10",
+        "bio": "2026-11-27",
         "reentry": "2027-01-06"
       },
       "upcoming": {
@@ -36,11 +36,11 @@
           "2027-01-08"
         ],
         "bio": [
+          "2026-11-27",
           "2026-12-10",
           "2026-12-14",
           "2026-12-17",
-          "2026-12-22",
-          "2027-01-06"
+          "2026-12-22"
         ],
         "reentry": [
           "2027-01-06",
@@ -140,12 +140,13 @@
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
-        "app_bio": "2027-01-07",
+        "app_bio": "2026-11-27",
         "bio": "2026-11-27",
-        "reentry": "2027-01-07"
+        "reentry": "2026-11-27"
       },
       "upcoming": {
         "app_bio": [
+          "2026-11-27",
           "2027-01-07",
           "2027-01-08"
         ],
@@ -156,6 +157,7 @@
           "2027-01-08"
         ],
         "reentry": [
+          "2026-11-27",
           "2027-01-07",
           "2027-01-08"
         ]
