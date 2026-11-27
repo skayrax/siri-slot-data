@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-27T13:01:17.169Z",
+  "updated": "2026-11-27T13:21:13.865Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -114,20 +114,23 @@
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/aalborg/index.html?lang=en",
       "earliest": {
-        "app_bio": "2027-01-07",
-        "bio": "2027-01-07",
-        "reentry": "2027-01-07"
+        "app_bio": "2026-12-11",
+        "bio": "2026-12-11",
+        "reentry": "2026-12-11"
       },
       "upcoming": {
         "app_bio": [
+          "2026-12-11",
           "2027-01-07",
           "2027-01-08"
         ],
         "bio": [
+          "2026-12-11",
           "2027-01-07",
           "2027-01-08"
         ],
         "reentry": [
+          "2026-12-11",
           "2027-01-07",
           "2027-01-08"
         ]
