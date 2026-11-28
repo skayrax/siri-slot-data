@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-28T08:21:13.603Z",
+  "updated": "2026-11-28T08:41:13.526Z",
   "errors": 0,
   "total": 21,
   "services": [
@@ -138,13 +138,12 @@
       "open": "Mon, Thu, Fri",
       "booking": "https://scandic.cleverq.de/public/appointments/esbjerg/index.html?lang=en",
       "earliest": {
-        "app_bio": "2026-12-22",
+        "app_bio": "2027-01-07",
         "bio": "2026-12-22",
-        "reentry": "2026-12-22"
+        "reentry": "2027-01-07"
       },
       "upcoming": {
         "app_bio": [
-          "2026-12-22",
           "2027-01-07",
           "2027-01-08"
         ],
@@ -155,7 +154,6 @@
           "2027-01-08"
         ],
         "reentry": [
-          "2026-12-22",
           "2027-01-07",
           "2027-01-08"
         ]
